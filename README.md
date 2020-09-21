@@ -1,5 +1,3 @@
 # hello-world
-Hello world project
-#My name is Moses System Analyst.
-#instead of Hello world as your first programme, let say "My first Application Hello World"
-My first Application Hello World
+My name is Moses, a System Analyst.A
+Instead of Hello world as your first programme, let say "My first Application Hello World" should be the general statment for Introducing newbie into programming.
